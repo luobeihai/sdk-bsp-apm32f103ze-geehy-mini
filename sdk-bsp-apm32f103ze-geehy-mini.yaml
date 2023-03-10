@@ -34,7 +34,7 @@ docs:
   file: documents/APM32F103ZE MINI Board User Manual.pdf
   title: APM32F103ZE MINI Board User Manual
 - category: sheet
-  file: documents/APM32F103xDxE datasheet.pdf
+  file: documents/APM32F103xDxE_datasheet_V1.8.pdf
   title: APM32F103xDxE datasheet
 - category: other
   file: documents/APM32F103ZE MINIBOARD Schematic Diagram.pdf
